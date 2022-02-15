@@ -13,849 +13,869 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-02-15T13:22:21.124+05:00
+  lastUpdatedAtString: 2022-02-15T14:28:29.748+05:00
   initializedAtString: 2022-02-14T08:43:59.961+05:00
   entries:
-  - path: .vs\GameJam2022\v17\.suo
-    fullPath: D:\Projects\Unity Projects\GameJam2022\.vs\GameJam2022\v17\.suo
-    projectPath: .vs\GameJam2022\v17\.suo
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character.meta
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character.meta
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
-  - path: Assembly-CSharp.csproj
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character.meta
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character.meta
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\PathCreator.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator.meta
-    projectPath: Assets\PathCreator.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core.meta
-    projectPath: Assets\PathCreator\Core.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Editor.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Editor.meta
-    projectPath: Assets\PathCreator\Core\Editor.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Editor\Helper.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Editor\Helper.meta
-    projectPath: Assets\PathCreator\Core\Editor\Helper.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Editor\Helper\MouseUtility.cs
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Editor\Helper\MouseUtility.cs
-    projectPath: Assets\PathCreator\Core\Editor\Helper\MouseUtility.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Editor\Helper\MouseUtility.cs.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Editor\Helper\MouseUtility.cs.meta
-    projectPath: Assets\PathCreator\Core\Editor\Helper\MouseUtility.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Editor\Helper\PathHandle.cs
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Editor\Helper\PathHandle.cs
-    projectPath: Assets\PathCreator\Core\Editor\Helper\PathHandle.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Editor\Helper\PathHandle.cs.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Editor\Helper\PathHandle.cs.meta
-    projectPath: Assets\PathCreator\Core\Editor\Helper\PathHandle.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Editor\Helper\ScreenSpacePolyLine.cs
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Editor\Helper\ScreenSpacePolyLine.cs
-    projectPath: Assets\PathCreator\Core\Editor\Helper\ScreenSpacePolyLine.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Editor\Helper\ScreenSpacePolyLine.cs.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Editor\Helper\ScreenSpacePolyLine.cs.meta
-    projectPath: Assets\PathCreator\Core\Editor\Helper\ScreenSpacePolyLine.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Editor\PathCreatorEditor.asmdef
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Editor\PathCreatorEditor.asmdef
-    projectPath: Assets\PathCreator\Core\Editor\PathCreatorEditor.asmdef
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Editor\PathCreatorEditor.asmdef.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Editor\PathCreatorEditor.asmdef.meta
-    projectPath: Assets\PathCreator\Core\Editor\PathCreatorEditor.asmdef.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Editor\PathEditor.cs
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Editor\PathEditor.cs
-    projectPath: Assets\PathCreator\Core\Editor\PathEditor.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Editor\PathEditor.cs.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Editor\PathEditor.cs.meta
-    projectPath: Assets\PathCreator\Core\Editor\PathEditor.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Runtime.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Runtime.meta
-    projectPath: Assets\PathCreator\Core\Runtime.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Runtime\Objects.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Runtime\Objects.meta
-    projectPath: Assets\PathCreator\Core\Runtime\Objects.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Runtime\Objects\BezierPath.cs
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Runtime\Objects\BezierPath.cs
-    projectPath: Assets\PathCreator\Core\Runtime\Objects\BezierPath.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Runtime\Objects\BezierPath.cs.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Runtime\Objects\BezierPath.cs.meta
-    projectPath: Assets\PathCreator\Core\Runtime\Objects\BezierPath.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Runtime\Objects\EndOfPathInstruction.cs
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Runtime\Objects\EndOfPathInstruction.cs
-    projectPath: Assets\PathCreator\Core\Runtime\Objects\EndOfPathInstruction.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Runtime\Objects\EndOfPathInstruction.cs.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Runtime\Objects\EndOfPathInstruction.cs.meta
-    projectPath: Assets\PathCreator\Core\Runtime\Objects\EndOfPathInstruction.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Runtime\Objects\GlobalDisplaySettings.cs
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Runtime\Objects\GlobalDisplaySettings.cs
-    projectPath: Assets\PathCreator\Core\Runtime\Objects\GlobalDisplaySettings.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Runtime\Objects\GlobalDisplaySettings.cs.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Runtime\Objects\GlobalDisplaySettings.cs.meta
-    projectPath: Assets\PathCreator\Core\Runtime\Objects\GlobalDisplaySettings.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Runtime\Objects\MinMax3D.cs
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Runtime\Objects\MinMax3D.cs
-    projectPath: Assets\PathCreator\Core\Runtime\Objects\MinMax3D.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Runtime\Objects\MinMax3D.cs.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Runtime\Objects\MinMax3D.cs.meta
-    projectPath: Assets\PathCreator\Core\Runtime\Objects\MinMax3D.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Runtime\Objects\PathCreator.cs
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Runtime\Objects\PathCreator.cs
-    projectPath: Assets\PathCreator\Core\Runtime\Objects\PathCreator.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Runtime\Objects\PathCreator.cs.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Runtime\Objects\PathCreator.cs.meta
-    projectPath: Assets\PathCreator\Core\Runtime\Objects\PathCreator.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Runtime\Objects\PathCreatorData.cs
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Runtime\Objects\PathCreatorData.cs
-    projectPath: Assets\PathCreator\Core\Runtime\Objects\PathCreatorData.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Runtime\Objects\PathCreatorData.cs.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Runtime\Objects\PathCreatorData.cs.meta
-    projectPath: Assets\PathCreator\Core\Runtime\Objects\PathCreatorData.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Runtime\Objects\PathSpace.cs
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Runtime\Objects\PathSpace.cs
-    projectPath: Assets\PathCreator\Core\Runtime\Objects\PathSpace.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Runtime\Objects\PathSpace.cs.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Runtime\Objects\PathSpace.cs.meta
-    projectPath: Assets\PathCreator\Core\Runtime\Objects\PathSpace.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Runtime\Objects\VertexPath.cs
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Runtime\Objects\VertexPath.cs
-    projectPath: Assets\PathCreator\Core\Runtime\Objects\VertexPath.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Runtime\Objects\VertexPath.cs.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Runtime\Objects\VertexPath.cs.meta
-    projectPath: Assets\PathCreator\Core\Runtime\Objects\VertexPath.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Runtime\PathCreator.asmdef
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Runtime\PathCreator.asmdef
-    projectPath: Assets\PathCreator\Core\Runtime\PathCreator.asmdef
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Runtime\PathCreator.asmdef.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Runtime\PathCreator.asmdef.meta
-    projectPath: Assets\PathCreator\Core\Runtime\PathCreator.asmdef.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Runtime\Utility.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Runtime\Utility.meta
-    projectPath: Assets\PathCreator\Core\Runtime\Utility.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Runtime\Utility\CubicBezierUtility.cs
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Runtime\Utility\CubicBezierUtility.cs
-    projectPath: Assets\PathCreator\Core\Runtime\Utility\CubicBezierUtility.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Runtime\Utility\CubicBezierUtility.cs.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Runtime\Utility\CubicBezierUtility.cs.meta
-    projectPath: Assets\PathCreator\Core\Runtime\Utility\CubicBezierUtility.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Runtime\Utility\MathUtility.cs
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Runtime\Utility\MathUtility.cs
-    projectPath: Assets\PathCreator\Core\Runtime\Utility\MathUtility.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Runtime\Utility\MathUtility.cs.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Runtime\Utility\MathUtility.cs.meta
-    projectPath: Assets\PathCreator\Core\Runtime\Utility\MathUtility.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Runtime\Utility\VertexPathUtility.cs
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Runtime\Utility\VertexPathUtility.cs
-    projectPath: Assets\PathCreator\Core\Runtime\Utility\VertexPathUtility.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Runtime\Utility\VertexPathUtility.cs.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Runtime\Utility\VertexPathUtility.cs.meta
-    projectPath: Assets\PathCreator\Core\Runtime\Utility\VertexPathUtility.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Settings.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Settings.meta
-    projectPath: Assets\PathCreator\Core\Settings.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Settings\GlobalDisplaySettings.asset
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Settings\GlobalDisplaySettings.asset
-    projectPath: Assets\PathCreator\Core\Settings\GlobalDisplaySettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Core\Settings\GlobalDisplaySettings.asset.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Core\Settings\GlobalDisplaySettings.asset.meta
-    projectPath: Assets\PathCreator\Core\Settings\GlobalDisplaySettings.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Documentation.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Documentation.meta
-    projectPath: Assets\PathCreator\Documentation.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Documentation\Documentation.pdf
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Documentation\Documentation.pdf
-    projectPath: Assets\PathCreator\Documentation\Documentation.pdf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Documentation\Documentation.pdf.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Documentation\Documentation.pdf.meta
-    projectPath: Assets\PathCreator\Documentation\Documentation.pdf.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples.meta
-    projectPath: Assets\PathCreator\Examples.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Materials.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Materials.meta
-    projectPath: Assets\PathCreator\Examples\Materials.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Materials\Black.mat
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Materials\Black.mat
-    projectPath: Assets\PathCreator\Examples\Materials\Black.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Materials\Black.mat.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Materials\Black.mat.meta
-    projectPath: Assets\PathCreator\Examples\Materials\Black.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Materials\Blue.mat
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Materials\Blue.mat
-    projectPath: Assets\PathCreator\Examples\Materials\Blue.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Materials\Blue.mat.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Materials\Blue.mat.meta
-    projectPath: Assets\PathCreator\Examples\Materials\Blue.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Materials\Brown.mat
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Materials\Brown.mat
-    projectPath: Assets\PathCreator\Examples\Materials\Brown.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Materials\Brown.mat.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Materials\Brown.mat.meta
-    projectPath: Assets\PathCreator\Examples\Materials\Brown.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Materials\Dark Grey.mat
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Materials\Dark
-      Grey.mat
-    projectPath: Assets\PathCreator\Examples\Materials\Dark Grey.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Materials\Dark Grey.mat.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Materials\Dark
-      Grey.mat.meta
-    projectPath: Assets\PathCreator\Examples\Materials\Dark Grey.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Materials\Green.mat
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Materials\Green.mat
-    projectPath: Assets\PathCreator\Examples\Materials\Green.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Materials\Green.mat.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Materials\Green.mat.meta
-    projectPath: Assets\PathCreator\Examples\Materials\Green.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Materials\Red.mat
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Materials\Red.mat
-    projectPath: Assets\PathCreator\Examples\Materials\Red.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Materials\Red.mat.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Materials\Red.mat.meta
-    projectPath: Assets\PathCreator\Examples\Materials\Red.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Materials\Road Texture.png
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Materials\Road
-      Texture.png
-    projectPath: Assets\PathCreator\Examples\Materials\Road Texture.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Materials\Road Texture.png.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Materials\Road
-      Texture.png.meta
-    projectPath: Assets\PathCreator\Examples\Materials\Road Texture.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Materials\Road Underside.mat
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Materials\Road
-      Underside.mat
-    projectPath: Assets\PathCreator\Examples\Materials\Road Underside.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Materials\Road Underside.mat.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Materials\Road
-      Underside.mat.meta
-    projectPath: Assets\PathCreator\Examples\Materials\Road Underside.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Materials\Road.mat
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Materials\Road.mat
-    projectPath: Assets\PathCreator\Examples\Materials\Road.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Materials\Road.mat.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Materials\Road.mat.meta
-    projectPath: Assets\PathCreator\Examples\Materials\Road.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Prefabs.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Prefabs.meta
-    projectPath: Assets\PathCreator\Examples\Prefabs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Prefabs\Cube.prefab
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Prefabs\Cube.prefab
-    projectPath: Assets\PathCreator\Examples\Prefabs\Cube.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Prefabs\Cube.prefab.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Prefabs\Cube.prefab.meta
-    projectPath: Assets\PathCreator\Examples\Prefabs\Cube.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Prefabs\Follower.prefab
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Prefabs\Follower.prefab
-    projectPath: Assets\PathCreator\Examples\Prefabs\Follower.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Prefabs\Follower.prefab.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Prefabs\Follower.prefab.meta
-    projectPath: Assets\PathCreator\Examples\Prefabs\Follower.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Prefabs\Path.prefab
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Prefabs\Path.prefab
-    projectPath: Assets\PathCreator\Examples\Prefabs\Path.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Prefabs\Path.prefab.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Prefabs\Path.prefab.meta
-    projectPath: Assets\PathCreator\Examples\Prefabs\Path.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Prefabs\Sphere.prefab
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Prefabs\Sphere.prefab
-    projectPath: Assets\PathCreator\Examples\Prefabs\Sphere.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Prefabs\Sphere.prefab.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Prefabs\Sphere.prefab.meta
-    projectPath: Assets\PathCreator\Examples\Prefabs\Sphere.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Scenes.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Scenes.meta
-    projectPath: Assets\PathCreator\Examples\Scenes.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Scenes\Follow Path.unity
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Scenes\Follow
-      Path.unity
-    projectPath: Assets\PathCreator\Examples\Scenes\Follow Path.unity
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Scenes\Follow Path.unity.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Scenes\Follow
-      Path.unity.meta
-    projectPath: Assets\PathCreator\Examples\Scenes\Follow Path.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Scenes\Generate Path.unity
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Scenes\Generate
-      Path.unity
-    projectPath: Assets\PathCreator\Examples\Scenes\Generate Path.unity
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Scenes\Generate Path.unity.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Scenes\Generate
-      Path.unity.meta
-    projectPath: Assets\PathCreator\Examples\Scenes\Generate Path.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Scenes\Object Placement.unity
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Scenes\Object
-      Placement.unity
-    projectPath: Assets\PathCreator\Examples\Scenes\Object Placement.unity
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Scenes\Object Placement.unity.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Scenes\Object
-      Placement.unity.meta
-    projectPath: Assets\PathCreator\Examples\Scenes\Object Placement.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Scenes\Path as Prefab.unity
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Scenes\Path
-      as Prefab.unity
-    projectPath: Assets\PathCreator\Examples\Scenes\Path as Prefab.unity
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Scenes\Path as Prefab.unity.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Scenes\Path
-      as Prefab.unity.meta
-    projectPath: Assets\PathCreator\Examples\Scenes\Path as Prefab.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Scenes\Road.unity
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Scenes\Road.unity
-    projectPath: Assets\PathCreator\Examples\Scenes\Road.unity
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Scenes\Road.unity.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Scenes\Road.unity.meta
-    projectPath: Assets\PathCreator\Examples\Scenes\Road.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Scripts.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Scripts.meta
-    projectPath: Assets\PathCreator\Examples\Scripts.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Scripts\Editor.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Scripts\Editor.meta
-    projectPath: Assets\PathCreator\Examples\Scripts\Editor.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Scripts\Editor\PathSceneToolEditor.cs
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Scripts\Editor\PathSceneToolEditor.cs
-    projectPath: Assets\PathCreator\Examples\Scripts\Editor\PathSceneToolEditor.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Scripts\Editor\PathSceneToolEditor.cs.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Scripts\Editor\PathSceneToolEditor.cs.meta
-    projectPath: Assets\PathCreator\Examples\Scripts\Editor\PathSceneToolEditor.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Scripts\GeneratePathExample.cs
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Scripts\GeneratePathExample.cs
-    projectPath: Assets\PathCreator\Examples\Scripts\GeneratePathExample.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Scripts\GeneratePathExample.cs.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Scripts\GeneratePathExample.cs.meta
-    projectPath: Assets\PathCreator\Examples\Scripts\GeneratePathExample.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Scripts\PathFollower.cs
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Scripts\PathFollower.cs
-    projectPath: Assets\PathCreator\Examples\Scripts\PathFollower.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Scripts\PathFollower.cs.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Scripts\PathFollower.cs.meta
-    projectPath: Assets\PathCreator\Examples\Scripts\PathFollower.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Scripts\PathPlacer.cs
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Scripts\PathPlacer.cs
-    projectPath: Assets\PathCreator\Examples\Scripts\PathPlacer.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Scripts\PathPlacer.cs.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Scripts\PathPlacer.cs.meta
-    projectPath: Assets\PathCreator\Examples\Scripts\PathPlacer.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Scripts\PathSceneTool.cs
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Scripts\PathSceneTool.cs
-    projectPath: Assets\PathCreator\Examples\Scripts\PathSceneTool.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Scripts\PathSceneTool.cs.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Scripts\PathSceneTool.cs.meta
-    projectPath: Assets\PathCreator\Examples\Scripts\PathSceneTool.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Scripts\PathSpawner.cs
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Scripts\PathSpawner.cs
-    projectPath: Assets\PathCreator\Examples\Scripts\PathSpawner.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Scripts\PathSpawner.cs.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Scripts\PathSpawner.cs.meta
-    projectPath: Assets\PathCreator\Examples\Scripts\PathSpawner.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Scripts\RoadMeshCreator.cs
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Scripts\RoadMeshCreator.cs
-    projectPath: Assets\PathCreator\Examples\Scripts\RoadMeshCreator.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PathCreator\Examples\Scripts\RoadMeshCreator.cs.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\PathCreator\Examples\Scripts\RoadMeshCreator.cs.meta
-    projectPath: Assets\PathCreator\Examples\Scripts\RoadMeshCreator.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Pictures.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Pictures.meta
-    projectPath: Assets\Pictures.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Pictures\gettyimages-1183903293-2048x2048_without_watermark.jpg
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Pictures\gettyimages-1183903293-2048x2048_without_watermark.jpg
-    projectPath: Assets\Pictures\gettyimages-1183903293-2048x2048_without_watermark.jpg
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Pictures\gettyimages-1183903293-2048x2048_without_watermark.jpg.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Pictures\gettyimages-1183903293-2048x2048_without_watermark.jpg.meta
-    projectPath: Assets\Pictures\gettyimages-1183903293-2048x2048_without_watermark.jpg.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Pictures\Materials.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Pictures\Materials.meta
-    projectPath: Assets\Pictures\Materials.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Pictures\Materials\gettyimages-1183903293-2048x2048_without_watermark.mat
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Pictures\Materials\gettyimages-1183903293-2048x2048_without_watermark.mat
-    projectPath: Assets\Pictures\Materials\gettyimages-1183903293-2048x2048_without_watermark.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Pictures\Materials\gettyimages-1183903293-2048x2048_without_watermark.mat.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Pictures\Materials\gettyimages-1183903293-2048x2048_without_watermark.mat.meta
-    projectPath: Assets\Pictures\Materials\gettyimages-1183903293-2048x2048_without_watermark.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Supercyan Character Pack Free Sample\Scripts\SimpleSampleCharacterControl.cs
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Supercyan Character Pack
-      Free Sample\Scripts\SimpleSampleCharacterControl.cs
-    projectPath: Assets\Supercyan Character Pack Free Sample\Scripts\SimpleSampleCharacterControl.cs
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_amca.obj
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character\uploads_files_2551386_amca.obj
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_amca.obj
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\WorldMaterialsFree\Resource Files\DryRockyDirt\Materials.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\WorldMaterialsFree\Resource
-      Files\DryRockyDirt\Materials.meta
-    projectPath: Assets\WorldMaterialsFree\Resource Files\DryRockyDirt\Materials.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\WorldMaterialsFree\Resource Files\DryRockyDirt\Materials\DryRockyDirt_Height.mat
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\WorldMaterialsFree\Resource
-      Files\DryRockyDirt\Materials\DryRockyDirt_Height.mat
-    projectPath: Assets\WorldMaterialsFree\Resource Files\DryRockyDirt\Materials\DryRockyDirt_Height.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\WorldMaterialsFree\Resource Files\DryRockyDirt\Materials\DryRockyDirt_Height.mat.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\WorldMaterialsFree\Resource
-      Files\DryRockyDirt\Materials\DryRockyDirt_Height.mat.meta
-    projectPath: Assets\WorldMaterialsFree\Resource Files\DryRockyDirt\Materials\DryRockyDirt_Height.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\WorldMaterialsFree\Resource Files\HexBricks\Materials.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\WorldMaterialsFree\Resource
-      Files\HexBricks\Materials.meta
-    projectPath: Assets\WorldMaterialsFree\Resource Files\HexBricks\Materials.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\WorldMaterialsFree\Resource Files\HexBricks\Materials\HexBricks_height.mat
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\WorldMaterialsFree\Resource
-      Files\HexBricks\Materials\HexBricks_height.mat
-    projectPath: Assets\WorldMaterialsFree\Resource Files\HexBricks\Materials\HexBricks_height.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\WorldMaterialsFree\Resource Files\HexBricks\Materials\HexBricks_height.mat.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\WorldMaterialsFree\Resource
-      Files\HexBricks\Materials\HexBricks_height.mat.meta
-    projectPath: Assets\WorldMaterialsFree\Resource Files\HexBricks\Materials\HexBricks_height.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\WorldMaterialsFree\Resource Files\HexBricks\Materials\HexBricks_Smoothness.mat
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\WorldMaterialsFree\Resource
-      Files\HexBricks\Materials\HexBricks_Smoothness.mat
-    projectPath: Assets\WorldMaterialsFree\Resource Files\HexBricks\Materials\HexBricks_Smoothness.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\WorldMaterialsFree\Resource Files\HexBricks\Materials\HexBricks_Smoothness.mat.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\WorldMaterialsFree\Resource
-      Files\HexBricks\Materials\HexBricks_Smoothness.mat.meta
-    projectPath: Assets\WorldMaterialsFree\Resource Files\HexBricks\Materials\HexBricks_Smoothness.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\WorldMaterialsFree\Resource Files\PebbledGravel\Materials.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\WorldMaterialsFree\Resource
-      Files\PebbledGravel\Materials.meta
-    projectPath: Assets\WorldMaterialsFree\Resource Files\PebbledGravel\Materials.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\WorldMaterialsFree\Resource Files\PebbledGravel\Materials\PebbledGravel_smoothness.mat
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\WorldMaterialsFree\Resource
-      Files\PebbledGravel\Materials\PebbledGravel_smoothness.mat
-    projectPath: Assets\WorldMaterialsFree\Resource Files\PebbledGravel\Materials\PebbledGravel_smoothness.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\WorldMaterialsFree\Resource Files\PebbledGravel\Materials\PebbledGravel_smoothness.mat.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\WorldMaterialsFree\Resource
-      Files\PebbledGravel\Materials\PebbledGravel_smoothness.mat.meta
-    projectPath: Assets\WorldMaterialsFree\Resource Files\PebbledGravel\Materials\PebbledGravel_smoothness.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\WorldMaterialsFree\Resource Files\SimpleRedBricks\Materials.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\WorldMaterialsFree\Resource
-      Files\SimpleRedBricks\Materials.meta
-    projectPath: Assets\WorldMaterialsFree\Resource Files\SimpleRedBricks\Materials.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\WorldMaterialsFree\Resource Files\SimpleRedBricks\Materials\SimpleRedBricks_Albedo.mat
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\WorldMaterialsFree\Resource
-      Files\SimpleRedBricks\Materials\SimpleRedBricks_Albedo.mat
-    projectPath: Assets\WorldMaterialsFree\Resource Files\SimpleRedBricks\Materials\SimpleRedBricks_Albedo.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\WorldMaterialsFree\Resource Files\SimpleRedBricks\Materials\SimpleRedBricks_Albedo.mat.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\WorldMaterialsFree\Resource
-      Files\SimpleRedBricks\Materials\SimpleRedBricks_Albedo.mat.meta
-    projectPath: Assets\WorldMaterialsFree\Resource Files\SimpleRedBricks\Materials\SimpleRedBricks_Albedo.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\WorldMaterialsFree\Resource Files\SimpleRedBricks\Materials\SimpleRedBricks_Smoothness.mat
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\WorldMaterialsFree\Resource
-      Files\SimpleRedBricks\Materials\SimpleRedBricks_Smoothness.mat
-    projectPath: Assets\WorldMaterialsFree\Resource Files\SimpleRedBricks\Materials\SimpleRedBricks_Smoothness.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\WorldMaterialsFree\Resource Files\SimpleRedBricks\Materials\SimpleRedBricks_Smoothness.mat.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\WorldMaterialsFree\Resource
-      Files\SimpleRedBricks\Materials\SimpleRedBricks_Smoothness.mat.meta
-    projectPath: Assets\WorldMaterialsFree\Resource Files\SimpleRedBricks\Materials\SimpleRedBricks_Smoothness.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\WorldMaterialsFree\Resource Files\WavySand\Materials.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\WorldMaterialsFree\Resource
-      Files\WavySand\Materials.meta
-    projectPath: Assets\WorldMaterialsFree\Resource Files\WavySand\Materials.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\WorldMaterialsFree\Resource Files\WavySand\Materials\WavySand_albedo.mat
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\WorldMaterialsFree\Resource
-      Files\WavySand\Materials\WavySand_albedo.mat
-    projectPath: Assets\WorldMaterialsFree\Resource Files\WavySand\Materials\WavySand_albedo.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\WorldMaterialsFree\Resource Files\WavySand\Materials\WavySand_albedo.mat.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\WorldMaterialsFree\Resource
-      Files\WavySand\Materials\WavySand_albedo.mat.meta
-    projectPath: Assets\WorldMaterialsFree\Resource Files\WavySand\Materials\WavySand_albedo.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\WorldMaterialsFree\Resource Files\WavySand\Materials\WavySand_height.mat
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\WorldMaterialsFree\Resource
-      Files\WavySand\Materials\WavySand_height.mat
-    projectPath: Assets\WorldMaterialsFree\Resource Files\WavySand\Materials\WavySand_height.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\WorldMaterialsFree\Resource Files\WavySand\Materials\WavySand_height.mat.meta
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\WorldMaterialsFree\Resource
-      Files\WavySand\Materials\WavySand_height.mat.meta
-    projectPath: Assets\WorldMaterialsFree\Resource Files\WavySand\Materials\WavySand_height.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GameJam2022.sln
-    fullPath: D:\Projects\Unity Projects\GameJam2022\GameJam2022.sln
-    projectPath: GameJam2022.sln
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_amca.obj.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character\uploads_files_2551386_amca.obj.meta
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_amca.obj.meta
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_astronot.fbx
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character\uploads_files_2551386_astronot.fbx
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_astronot.fbx
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_astronot.fbx.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character\uploads_files_2551386_astronot.fbx.meta
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_astronot.fbx.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_astronot.obj
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character\uploads_files_2551386_astronot.obj
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_astronot.obj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_astronot.obj.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character\uploads_files_2551386_astronot.obj.meta
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_astronot.obj.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_astronot.rar
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character\uploads_files_2551386_astronot.rar
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_astronot.rar
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_astronot.rar.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character\uploads_files_2551386_astronot.rar.meta
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_astronot.rar.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_beyzbol.obj
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character\uploads_files_2551386_beyzbol.obj
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_beyzbol.obj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_beyzbol.obj.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character\uploads_files_2551386_beyzbol.obj.meta
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_beyzbol.obj.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_beyzbol.rar
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character\uploads_files_2551386_beyzbol.rar
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_beyzbol.rar
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_beyzbol.rar.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character\uploads_files_2551386_beyzbol.rar.meta
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_beyzbol.rar.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_beyzbolcharacter.fbx
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character\uploads_files_2551386_beyzbolcharacter.fbx
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_beyzbolcharacter.fbx
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_beyzbolcharacter.fbx.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character\uploads_files_2551386_beyzbolcharacter.fbx.meta
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_beyzbolcharacter.fbx.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_cihan.fbx
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character\uploads_files_2551386_cihan.fbx
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_cihan.fbx
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_cihan.fbx.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character\uploads_files_2551386_cihan.fbx.meta
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_cihan.fbx.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_cihan.rar
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character\uploads_files_2551386_cihan.rar
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_cihan.rar
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_cihan.rar.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character\uploads_files_2551386_cihan.rar.meta
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_cihan.rar.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "Assets\\cgtrader - Stylize lowpoly hypercasual games character\\cgtrader
+      - Stylize lowpoly hypercasual games character\\uploads_files_2551386_day\u0131.fbx"
+    fullPath: "D:\\Projects\\Unity Projects\\GameJam2022\\Assets\\cgtrader - Stylize
+      lowpoly hypercasual games character\\cgtrader - Stylize lowpoly hypercasual
+      games character\\uploads_files_2551386_day\u0131.fbx"
+    projectPath: "Assets\\cgtrader - Stylize lowpoly hypercasual games character\\cgtrader
+      - Stylize lowpoly hypercasual games character\\uploads_files_2551386_day\u0131.fbx"
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "Assets\\cgtrader - Stylize lowpoly hypercasual games character\\cgtrader
+      - Stylize lowpoly hypercasual games character\\uploads_files_2551386_day\u0131.fbx.meta"
+    fullPath: "D:\\Projects\\Unity Projects\\GameJam2022\\Assets\\cgtrader - Stylize
+      lowpoly hypercasual games character\\cgtrader - Stylize lowpoly hypercasual
+      games character\\uploads_files_2551386_day\u0131.fbx.meta"
+    projectPath: "Assets\\cgtrader - Stylize lowpoly hypercasual games character\\cgtrader
+      - Stylize lowpoly hypercasual games character\\uploads_files_2551386_day\u0131.fbx.meta"
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "Assets\\cgtrader - Stylize lowpoly hypercasual games character\\cgtrader
+      - Stylize lowpoly hypercasual games character\\uploads_files_2551386_day\u0131.rar"
+    fullPath: "D:\\Projects\\Unity Projects\\GameJam2022\\Assets\\cgtrader - Stylize
+      lowpoly hypercasual games character\\cgtrader - Stylize lowpoly hypercasual
+      games character\\uploads_files_2551386_day\u0131.rar"
+    projectPath: "Assets\\cgtrader - Stylize lowpoly hypercasual games character\\cgtrader
+      - Stylize lowpoly hypercasual games character\\uploads_files_2551386_day\u0131.rar"
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "Assets\\cgtrader - Stylize lowpoly hypercasual games character\\cgtrader
+      - Stylize lowpoly hypercasual games character\\uploads_files_2551386_day\u0131.rar.meta"
+    fullPath: "D:\\Projects\\Unity Projects\\GameJam2022\\Assets\\cgtrader - Stylize
+      lowpoly hypercasual games character\\cgtrader - Stylize lowpoly hypercasual
+      games character\\uploads_files_2551386_day\u0131.rar.meta"
+    projectPath: "Assets\\cgtrader - Stylize lowpoly hypercasual games character\\cgtrader
+      - Stylize lowpoly hypercasual games character\\uploads_files_2551386_day\u0131.rar.meta"
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "Assets\\cgtrader - Stylize lowpoly hypercasual games character\\cgtrader
+      - Stylize lowpoly hypercasual games character\\uploads_files_2551386_di\u015Fi_talha.fbx"
+    fullPath: "D:\\Projects\\Unity Projects\\GameJam2022\\Assets\\cgtrader - Stylize
+      lowpoly hypercasual games character\\cgtrader - Stylize lowpoly hypercasual
+      games character\\uploads_files_2551386_di\u015Fi_talha.fbx"
+    projectPath: "Assets\\cgtrader - Stylize lowpoly hypercasual games character\\cgtrader
+      - Stylize lowpoly hypercasual games character\\uploads_files_2551386_di\u015Fi_talha.fbx"
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "Assets\\cgtrader - Stylize lowpoly hypercasual games character\\cgtrader
+      - Stylize lowpoly hypercasual games character\\uploads_files_2551386_di\u015Fi_talha.fbx.meta"
+    fullPath: "D:\\Projects\\Unity Projects\\GameJam2022\\Assets\\cgtrader - Stylize
+      lowpoly hypercasual games character\\cgtrader - Stylize lowpoly hypercasual
+      games character\\uploads_files_2551386_di\u015Fi_talha.fbx.meta"
+    projectPath: "Assets\\cgtrader - Stylize lowpoly hypercasual games character\\cgtrader
+      - Stylize lowpoly hypercasual games character\\uploads_files_2551386_di\u015Fi_talha.fbx.meta"
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "Assets\\cgtrader - Stylize lowpoly hypercasual games character\\cgtrader
+      - Stylize lowpoly hypercasual games character\\uploads_files_2551386_d\u0131s\u0131talha.rar"
+    fullPath: "D:\\Projects\\Unity Projects\\GameJam2022\\Assets\\cgtrader - Stylize
+      lowpoly hypercasual games character\\cgtrader - Stylize lowpoly hypercasual
+      games character\\uploads_files_2551386_d\u0131s\u0131talha.rar"
+    projectPath: "Assets\\cgtrader - Stylize lowpoly hypercasual games character\\cgtrader
+      - Stylize lowpoly hypercasual games character\\uploads_files_2551386_d\u0131s\u0131talha.rar"
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "Assets\\cgtrader - Stylize lowpoly hypercasual games character\\cgtrader
+      - Stylize lowpoly hypercasual games character\\uploads_files_2551386_d\u0131s\u0131talha.rar.meta"
+    fullPath: "D:\\Projects\\Unity Projects\\GameJam2022\\Assets\\cgtrader - Stylize
+      lowpoly hypercasual games character\\cgtrader - Stylize lowpoly hypercasual
+      games character\\uploads_files_2551386_d\u0131s\u0131talha.rar.meta"
+    projectPath: "Assets\\cgtrader - Stylize lowpoly hypercasual games character\\cgtrader
+      - Stylize lowpoly hypercasual games character\\uploads_files_2551386_d\u0131s\u0131talha.rar.meta"
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_helboy.fbx
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character\uploads_files_2551386_helboy.fbx
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_helboy.fbx
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_helboy.fbx.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character\uploads_files_2551386_helboy.fbx.meta
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_helboy.fbx.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_helboy.rar
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character\uploads_files_2551386_helboy.rar
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_helboy.rar
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_helboy.rar.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character\uploads_files_2551386_helboy.rar.meta
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_helboy.rar.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_medusa.fbx
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character\uploads_files_2551386_medusa.fbx
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_medusa.fbx
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_medusa.fbx.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character\uploads_files_2551386_medusa.fbx.meta
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_medusa.fbx.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_memati.rar
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character\uploads_files_2551386_memati.rar
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_memati.rar
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_memati.rar.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character\uploads_files_2551386_memati.rar.meta
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_memati.rar.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_memati_rigli.fbx
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character\uploads_files_2551386_memati_rigli.fbx
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_memati_rigli.fbx
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_memati_rigli.fbx.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character\uploads_files_2551386_memati_rigli.fbx.meta
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_memati_rigli.fbx.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_talha.fbx
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character\uploads_files_2551386_talha.fbx
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_talha.fbx
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_talha.fbx.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character\uploads_files_2551386_talha.fbx.meta
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_talha.fbx.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_talha.obj
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character\uploads_files_2551386_talha.obj
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_talha.obj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_talha.obj.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character\uploads_files_2551386_talha.obj.meta
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_talha.obj.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_talha.rar
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character\uploads_files_2551386_talha.rar
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_talha.rar
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_talha.rar.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\cgtrader - Stylize lowpoly
+      hypercasual games character\cgtrader - Stylize lowpoly hypercasual games character\uploads_files_2551386_talha.rar.meta
+    projectPath: Assets\cgtrader - Stylize lowpoly hypercasual games character\cgtrader
+      - Stylize lowpoly hypercasual games character\uploads_files_2551386_talha.rar.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "Assets\\cgtrader - Stylize lowpoly hypercasual games character\\cgtrader
+      - Stylize lowpoly hypercasual games character\\uploads_files_2551386_uzayl\u0131.rar"
+    fullPath: "D:\\Projects\\Unity Projects\\GameJam2022\\Assets\\cgtrader - Stylize
+      lowpoly hypercasual games character\\cgtrader - Stylize lowpoly hypercasual
+      games character\\uploads_files_2551386_uzayl\u0131.rar"
+    projectPath: "Assets\\cgtrader - Stylize lowpoly hypercasual games character\\cgtrader
+      - Stylize lowpoly hypercasual games character\\uploads_files_2551386_uzayl\u0131.rar"
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "Assets\\cgtrader - Stylize lowpoly hypercasual games character\\cgtrader
+      - Stylize lowpoly hypercasual games character\\uploads_files_2551386_uzayl\u0131.rar.meta"
+    fullPath: "D:\\Projects\\Unity Projects\\GameJam2022\\Assets\\cgtrader - Stylize
+      lowpoly hypercasual games character\\cgtrader - Stylize lowpoly hypercasual
+      games character\\uploads_files_2551386_uzayl\u0131.rar.meta"
+    projectPath: "Assets\\cgtrader - Stylize lowpoly hypercasual games character\\cgtrader
+      - Stylize lowpoly hypercasual games character\\uploads_files_2551386_uzayl\u0131.rar.meta"
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Free.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free.meta
+    projectPath: Assets\Free.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free\House_Gameprops.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free\House_Gameprops.meta
+    projectPath: Assets\Free\House_Gameprops.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free\House_Gameprops\Arabian-House.FBX
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free\House_Gameprops\Arabian-House.FBX
+    projectPath: Assets\Free\House_Gameprops\Arabian-House.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free\House_Gameprops\Arabian-House.FBX.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free\House_Gameprops\Arabian-House.FBX.meta
+    projectPath: Assets\Free\House_Gameprops\Arabian-House.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free\House_Gameprops\French_House.FBX
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free\House_Gameprops\French_House.FBX
+    projectPath: Assets\Free\House_Gameprops\French_House.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free\House_Gameprops\French_House.FBX.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free\House_Gameprops\French_House.FBX.meta
+    projectPath: Assets\Free\House_Gameprops\French_House.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free\House_Gameprops\House_01_a_1024_02.psd
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free\House_Gameprops\House_01_a_1024_02.psd
+    projectPath: Assets\Free\House_Gameprops\House_01_a_1024_02.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free\House_Gameprops\House_01_a_1024_02.psd.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free\House_Gameprops\House_01_a_1024_02.psd.meta
+    projectPath: Assets\Free\House_Gameprops\House_01_a_1024_02.psd.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free\House_Gameprops\House_02_1024.psd
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free\House_Gameprops\House_02_1024.psd
+    projectPath: Assets\Free\House_Gameprops\House_02_1024.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free\House_Gameprops\House_02_1024.psd.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free\House_Gameprops\House_02_1024.psd.meta
+    projectPath: Assets\Free\House_Gameprops\House_02_1024.psd.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free\House_Gameprops\Materials.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free\House_Gameprops\Materials.meta
+    projectPath: Assets\Free\House_Gameprops\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free\House_Gameprops\Materials\House_01_a_1024.mat
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free\House_Gameprops\Materials\House_01_a_1024.mat
+    projectPath: Assets\Free\House_Gameprops\Materials\House_01_a_1024.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free\House_Gameprops\Materials\House_01_a_1024.mat.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free\House_Gameprops\Materials\House_01_a_1024.mat.meta
+    projectPath: Assets\Free\House_Gameprops\Materials\House_01_a_1024.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free\House_Gameprops\Materials\House_01_a_1024_02.mat
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free\House_Gameprops\Materials\House_01_a_1024_02.mat
+    projectPath: Assets\Free\House_Gameprops\Materials\House_01_a_1024_02.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free\House_Gameprops\Materials\House_01_a_1024_02.mat.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free\House_Gameprops\Materials\House_01_a_1024_02.mat.meta
+    projectPath: Assets\Free\House_Gameprops\Materials\House_01_a_1024_02.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free\House_Gameprops\Materials\House_02_1024.mat
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free\House_Gameprops\Materials\House_02_1024.mat
+    projectPath: Assets\Free\House_Gameprops\Materials\House_02_1024.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free\House_Gameprops\Materials\House_02_1024.mat.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free\House_Gameprops\Materials\House_02_1024.mat.meta
+    projectPath: Assets\Free\House_Gameprops\Materials\House_02_1024.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free_Building_01.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free_Building_01.meta
+    projectPath: Assets\Free_Building_01.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free_Building_01\Materials.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free_Building_01\Materials.meta
+    projectPath: Assets\Free_Building_01\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free_Building_01\Materials\House_Day_Mat.mat
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free_Building_01\Materials\House_Day_Mat.mat
+    projectPath: Assets\Free_Building_01\Materials\House_Day_Mat.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free_Building_01\Materials\House_Day_Mat.mat.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free_Building_01\Materials\House_Day_Mat.mat.meta
+    projectPath: Assets\Free_Building_01\Materials\House_Day_Mat.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free_Building_01\Materials\House_Night_Mat.mat
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free_Building_01\Materials\House_Night_Mat.mat
+    projectPath: Assets\Free_Building_01\Materials\House_Night_Mat.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free_Building_01\Materials\House_Night_Mat.mat.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free_Building_01\Materials\House_Night_Mat.mat.meta
+    projectPath: Assets\Free_Building_01\Materials\House_Night_Mat.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free_Building_01\Mesh.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free_Building_01\Mesh.meta
+    projectPath: Assets\Free_Building_01\Mesh.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free_Building_01\Mesh\Building.fbx
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free_Building_01\Mesh\Building.fbx
+    projectPath: Assets\Free_Building_01\Mesh\Building.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free_Building_01\Mesh\Building.fbx.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free_Building_01\Mesh\Building.fbx.meta
+    projectPath: Assets\Free_Building_01\Mesh\Building.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free_Building_01\Prefab.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free_Building_01\Prefab.meta
+    projectPath: Assets\Free_Building_01\Prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free_Building_01\Prefab\Building.prefab
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free_Building_01\Prefab\Building.prefab
+    projectPath: Assets\Free_Building_01\Prefab\Building.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free_Building_01\Prefab\Building.prefab.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free_Building_01\Prefab\Building.prefab.meta
+    projectPath: Assets\Free_Building_01\Prefab\Building.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free_Building_01\Recommended_Assets.pdf
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free_Building_01\Recommended_Assets.pdf
+    projectPath: Assets\Free_Building_01\Recommended_Assets.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free_Building_01\Recommended_Assets.pdf.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free_Building_01\Recommended_Assets.pdf.meta
+    projectPath: Assets\Free_Building_01\Recommended_Assets.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free_Building_01\Scene.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free_Building_01\Scene.meta
+    projectPath: Assets\Free_Building_01\Scene.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free_Building_01\Scene\Demo.unity
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free_Building_01\Scene\Demo.unity
+    projectPath: Assets\Free_Building_01\Scene\Demo.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free_Building_01\Scene\Demo.unity.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free_Building_01\Scene\Demo.unity.meta
+    projectPath: Assets\Free_Building_01\Scene\Demo.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free_Building_01\Textures.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free_Building_01\Textures.meta
+    projectPath: Assets\Free_Building_01\Textures.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free_Building_01\Textures\Building_AlbedoTransparency.png
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free_Building_01\Textures\Building_AlbedoTransparency.png
+    projectPath: Assets\Free_Building_01\Textures\Building_AlbedoTransparency.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free_Building_01\Textures\Building_AlbedoTransparency.png.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free_Building_01\Textures\Building_AlbedoTransparency.png.meta
+    projectPath: Assets\Free_Building_01\Textures\Building_AlbedoTransparency.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free_Building_01\Textures\Building_AlbedoTransparency_Night.png
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free_Building_01\Textures\Building_AlbedoTransparency_Night.png
+    projectPath: Assets\Free_Building_01\Textures\Building_AlbedoTransparency_Night.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free_Building_01\Textures\Building_AlbedoTransparency_Night.png.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free_Building_01\Textures\Building_AlbedoTransparency_Night.png.meta
+    projectPath: Assets\Free_Building_01\Textures\Building_AlbedoTransparency_Night.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free_Building_01\Textures\Building_AmbientOcclusion.png
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free_Building_01\Textures\Building_AmbientOcclusion.png
+    projectPath: Assets\Free_Building_01\Textures\Building_AmbientOcclusion.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free_Building_01\Textures\Building_AmbientOcclusion.png.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free_Building_01\Textures\Building_AmbientOcclusion.png.meta
+    projectPath: Assets\Free_Building_01\Textures\Building_AmbientOcclusion.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free_Building_01\Textures\Building_Emission.png
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free_Building_01\Textures\Building_Emission.png
+    projectPath: Assets\Free_Building_01\Textures\Building_Emission.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free_Building_01\Textures\Building_Emission.png.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free_Building_01\Textures\Building_Emission.png.meta
+    projectPath: Assets\Free_Building_01\Textures\Building_Emission.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free_Building_01\Textures\Building_MetallicSmoothness.png
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free_Building_01\Textures\Building_MetallicSmoothness.png
+    projectPath: Assets\Free_Building_01\Textures\Building_MetallicSmoothness.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free_Building_01\Textures\Building_MetallicSmoothness.png.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free_Building_01\Textures\Building_MetallicSmoothness.png.meta
+    projectPath: Assets\Free_Building_01\Textures\Building_MetallicSmoothness.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free_Building_01\Textures\Building_Normal.png
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free_Building_01\Textures\Building_Normal.png
+    projectPath: Assets\Free_Building_01\Textures\Building_Normal.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free_Building_01\Textures\Building_Normal.png.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free_Building_01\Textures\Building_Normal.png.meta
+    projectPath: Assets\Free_Building_01\Textures\Building_Normal.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free_Building_01\Textures\Building_Normal_Night.png
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free_Building_01\Textures\Building_Normal_Night.png
+    projectPath: Assets\Free_Building_01\Textures\Building_Normal_Night.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Free_Building_01\Textures\Building_Normal_Night.png.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Free_Building_01\Textures\Building_Normal_Night.png.meta
+    projectPath: Assets\Free_Building_01\Textures\Building_Normal_Night.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\House_of_Color_C_Green.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\House_of_Color_C_Green.meta
+    projectPath: Assets\House_of_Color_C_Green.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\House_of_Color_C_Green\Materials.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\House_of_Color_C_Green\Materials.meta
+    projectPath: Assets\House_of_Color_C_Green\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\House_of_Color_C_Green\Materials\House_C_Materials.mat
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\House_of_Color_C_Green\Materials\House_C_Materials.mat
+    projectPath: Assets\House_of_Color_C_Green\Materials\House_C_Materials.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\House_of_Color_C_Green\Materials\House_C_Materials.mat.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\House_of_Color_C_Green\Materials\House_C_Materials.mat.meta
+    projectPath: Assets\House_of_Color_C_Green\Materials\House_C_Materials.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\House_of_Color_C_Green\Models.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\House_of_Color_C_Green\Models.meta
+    projectPath: Assets\House_of_Color_C_Green\Models.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\House_of_Color_C_Green\Models\House_of_Color_C_Green.FBX
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\House_of_Color_C_Green\Models\House_of_Color_C_Green.FBX
+    projectPath: Assets\House_of_Color_C_Green\Models\House_of_Color_C_Green.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\House_of_Color_C_Green\Models\House_of_Color_C_Green.FBX.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\House_of_Color_C_Green\Models\House_of_Color_C_Green.FBX.meta
+    projectPath: Assets\House_of_Color_C_Green\Models\House_of_Color_C_Green.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\House_of_Color_C_Green\Prefabs.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\House_of_Color_C_Green\Prefabs.meta
+    projectPath: Assets\House_of_Color_C_Green\Prefabs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\House_of_Color_C_Green\Prefabs\House_of_Color_C_Green.prefab
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\House_of_Color_C_Green\Prefabs\House_of_Color_C_Green.prefab
+    projectPath: Assets\House_of_Color_C_Green\Prefabs\House_of_Color_C_Green.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\House_of_Color_C_Green\Prefabs\House_of_Color_C_Green.prefab.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\House_of_Color_C_Green\Prefabs\House_of_Color_C_Green.prefab.meta
+    projectPath: Assets\House_of_Color_C_Green\Prefabs\House_of_Color_C_Green.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\House_of_Color_C_Green\Prefabs\Scene.unity
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\House_of_Color_C_Green\Prefabs\Scene.unity
+    projectPath: Assets\House_of_Color_C_Green\Prefabs\Scene.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\House_of_Color_C_Green\Prefabs\Scene.unity.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\House_of_Color_C_Green\Prefabs\Scene.unity.meta
+    projectPath: Assets\House_of_Color_C_Green\Prefabs\Scene.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\House_of_Color_C_Green\Textures.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\House_of_Color_C_Green\Textures.meta
+    projectPath: Assets\House_of_Color_C_Green\Textures.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\House_of_Color_C_Green\Textures\House_C_AlbedoTransparency.tga
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\House_of_Color_C_Green\Textures\House_C_AlbedoTransparency.tga
+    projectPath: Assets\House_of_Color_C_Green\Textures\House_C_AlbedoTransparency.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\House_of_Color_C_Green\Textures\House_C_AlbedoTransparency.tga.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\House_of_Color_C_Green\Textures\House_C_AlbedoTransparency.tga.meta
+    projectPath: Assets\House_of_Color_C_Green\Textures\House_C_AlbedoTransparency.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\House_of_Color_C_Green\Textures\House_C_MetallicSmoothness.tga
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\House_of_Color_C_Green\Textures\House_C_MetallicSmoothness.tga
+    projectPath: Assets\House_of_Color_C_Green\Textures\House_C_MetallicSmoothness.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\House_of_Color_C_Green\Textures\House_C_MetallicSmoothness.tga.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\House_of_Color_C_Green\Textures\House_C_MetallicSmoothness.tga.meta
+    projectPath: Assets\House_of_Color_C_Green\Textures\House_C_MetallicSmoothness.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\House_of_Color_C_Green\Textures\House_C_Normal.tga
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\House_of_Color_C_Green\Textures\House_C_Normal.tga
+    projectPath: Assets\House_of_Color_C_Green\Textures\House_C_Normal.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\House_of_Color_C_Green\Textures\House_C_Normal.tga.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\House_of_Color_C_Green\Textures\House_C_Normal.tga.meta
+    projectPath: Assets\House_of_Color_C_Green\Textures\House_C_Normal.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\SampleScene.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Scenes\SampleScene.meta
+    projectPath: Assets\Scenes\SampleScene.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\SampleScene\LightingData.asset
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Scenes\SampleScene\LightingData.asset
+    projectPath: Assets\Scenes\SampleScene\LightingData.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\SampleScene\LightingData.asset.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Scenes\SampleScene\LightingData.asset.meta
+    projectPath: Assets\Scenes\SampleScene\LightingData.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\SampleScene\ReflectionProbe-0.exr
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Scenes\SampleScene\ReflectionProbe-0.exr
+    projectPath: Assets\Scenes\SampleScene\ReflectionProbe-0.exr
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\SampleScene\ReflectionProbe-0.exr.meta
+    fullPath: D:\Projects\Unity Projects\GameJam2022\Assets\Scenes\SampleScene\ReflectionProbe-0.exr.meta
+    projectPath: Assets\Scenes\SampleScene\ReflectionProbe-0.exr.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\ArtifactDB
     fullPath: D:\Projects\Unity Projects\GameJam2022\Library\ArtifactDB
     projectPath: Library\ArtifactDB
@@ -892,45 +912,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\gfu\cache\gituser.yaml
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Library\gfu\cache\gituser.yaml
-    projectPath: Library\gfu\cache\gituser.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\gfu\cache\repoinfo.yaml
     fullPath: D:\Projects\Unity Projects\GameJam2022\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\InspectorExpandedItems.asset
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\SceneVisibilityState.asset
     fullPath: D:\Projects\Unity Projects\GameJam2022\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Library\ScriptAssemblies\Assembly-CSharp.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ShaderCache.db
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Library\ShaderCache.db
-    projectPath: Library\ShaderCache.db
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -958,27 +948,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Logs\AssetImportWorker0-prev.log
-    fullPath: D:\Projects\Unity Projects\GameJam2022\Logs\AssetImportWorker0-prev.log
-    projectPath: Logs\AssetImportWorker0-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: D:\Projects\Unity Projects\GameJam2022\Logs\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
-    fullPath: D:\Projects\Unity Projects\GameJam2022\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    fullPath: D:\Projects\Unity Projects\GameJam2022\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
