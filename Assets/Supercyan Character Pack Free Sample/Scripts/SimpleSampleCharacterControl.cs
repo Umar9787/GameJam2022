@@ -65,7 +65,7 @@ public class SimpleSampleCharacterControl : MonoBehaviour
         }
     }
 
-    private void OnCollisionStay(Collision collision)
+    /*private void OnCollisionStay(Collision collision)
     {
         ContactPoint[] contactPoints = collision.contacts;
         bool validSurfaceNormal = false;
@@ -103,7 +103,7 @@ public class SimpleSampleCharacterControl : MonoBehaviour
         }
         if (m_collisions.Count == 0) { m_isGrounded = false; }
     }
-
+    */
     private void Update()
     {
         if (!m_jumpInput && Input.GetKey(KeyCode.Space))
@@ -115,25 +115,42 @@ public class SimpleSampleCharacterControl : MonoBehaviour
     private void FixedUpdate()
     {
         m_animator.SetBool("Grounded", m_isGrounded);
+        m_animator.SetFloat("MoveSpeed", m_currentV);
+        Transform camera = Camera.main.transform;
+        float v = 1, h = 0;
+        m_currentV = Mathf.Lerp(m_currentV, v, Time.deltaTime * m_interpolation);
+        m_currentH = Mathf.Lerp(m_currentH, h, Time.deltaTime * m_interpolation);
+        Vector3 direction = camera.forward * m_currentV + camera.right * m_currentH;
 
-        switch (m_controlMode)
-        {
-            case ControlMode.Direct:
-                DirectUpdate();
-                break;
+        float directionLength = direction.magnitude;
+        direction.y = 0;
+        direction = direction.normalized * directionLength;
 
-            case ControlMode.Tank:
-                TankUpdate();
-                break;
+        
+            m_currentDirection = Vector3.Slerp(m_currentDirection, direction, Time.deltaTime * m_interpolation);
 
-            default:
-                Debug.LogError("Unsupported state");
-                break;
+            transform.rotation = Quaternion.LookRotation(m_currentDirection);
+            transform.position += m_currentDirection * m_moveSpeed * Time.deltaTime;
+
+            m_animator.SetFloat("MoveSpeed", direction.magnitude);
+            /*switch (m_controlMode)
+            {
+                case ControlMode.Direct:
+                    DirectUpdate();
+                    break;
+
+                case ControlMode.Tank:
+                    TankUpdate();
+                    break;
+
+                default:
+                    Debug.LogError("Unsupported state");
+                    break;
+            }
+
+            m_wasGrounded = m_isGrounded;
+            m_jumpInput = false;*/
         }
-
-        m_wasGrounded = m_isGrounded;
-        m_jumpInput = false;
-    }
 
     private void TankUpdate()
     {
